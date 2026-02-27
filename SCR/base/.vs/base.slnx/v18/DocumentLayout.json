@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DF5BE7-68D3-46B4-AFBC-C30F997D842A}|base9\\base9.vcxproj|C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base9\\base9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81DF5BE7-68D3-46B4-AFBC-C30F997D842A}|base9\\base9.vcxproj|solutionrelative:base9\\base9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2937DA-C603-44FD-87C8-A87B0F9A7843}|base8\\base8.vcxproj|C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base8\\base8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F2937DA-C603-44FD-87C8-A87B0F9A7843}|base8\\base8.vcxproj|solutionrelative:base8\\base8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88D4C6F-512E-4BEE-9627-E756F1BC5A62}|base7\\base7.vcxproj|C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base7\\base7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B88D4C6F-512E-4BEE-9627-E756F1BC5A62}|base7\\base7.vcxproj|solutionrelative:base7\\base7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{032D8CFD-A6BD-4C44-A363-FD328C7EABD5}|base6\\base6.vcxproj|C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base6\\base6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{032D8CFD-A6BD-4C44-A363-FD328C7EABD5}|base6\\base6.vcxproj|solutionrelative:base6\\base6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E570E1-FDBB-4186-A0A9-24BCDC3382B6}|base5\\base5.vcxproj|C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base5\\base5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35E570E1-FDBB-4186-A0A9-24BCDC3382B6}|base5\\base5.vcxproj|solutionrelative:base5\\base5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C72BC0C-1FAC-4824-ADF7-F9C8C54948C1}|base4\\base4.vcxproj|C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base4\\base4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C72BC0C-1FAC-4824-ADF7-F9C8C54948C1}|base4\\base4.vcxproj|solutionrelative:base4\\base4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1988A-F878-4EAA-9EF1-B7C7AC2A52C7}|base3\\base3.vcxproj|C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base3\\base3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2F1988A-F878-4EAA-9EF1-B7C7AC2A52C7}|base3\\base3.vcxproj|solutionrelative:base3\\base3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCCDA9EA-CA18-4E44-9D46-AB1C8C8569EF}|base\\base.vcxproj|C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base\\base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCCDA9EA-CA18-4E44-9D46-AB1C8C8569EF}|base\\base.vcxproj|solutionrelative:base\\base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AE4A14-FA0E-445C-87D8-DEEA45B8B6E7}|base2\\base2.vcxproj|C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base2\\base2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40AE4A14-FA0E-445C-87D8-DEEA45B8B6E7}|base2\\base2.vcxproj|solutionrelative:base2\\base2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "base9.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base9\\base9.cpp",
+              "RelativeDocumentMoniker": "base9\\base9.cpp",
+              "ToolTip": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base9\\base9.cpp",
+              "RelativeToolTip": "base9\\base9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T07:51:03.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "base8.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base8\\base8.cpp",
+              "RelativeDocumentMoniker": "base8\\base8.cpp",
+              "ToolTip": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base8\\base8.cpp",
+              "RelativeToolTip": "base8\\base8.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T06:44:40.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "base7.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base7\\base7.cpp",
+              "RelativeDocumentMoniker": "base7\\base7.cpp",
+              "ToolTip": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base7\\base7.cpp",
+              "RelativeToolTip": "base7\\base7.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T03:15:23.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "base6.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base6\\base6.cpp",
+              "RelativeDocumentMoniker": "base6\\base6.cpp",
+              "ToolTip": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base6\\base6.cpp",
+              "RelativeToolTip": "base6\\base6.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T02:37:19.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "base5.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base5\\base5.cpp",
+              "RelativeDocumentMoniker": "base5\\base5.cpp",
+              "ToolTip": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base5\\base5.cpp",
+              "RelativeToolTip": "base5\\base5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T01:45:19.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "base4.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base4\\base4.cpp",
+              "RelativeDocumentMoniker": "base4\\base4.cpp",
+              "ToolTip": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base4\\base4.cpp",
+              "RelativeToolTip": "base4\\base4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T01:41:52.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "base3.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base3\\base3.cpp",
+              "RelativeDocumentMoniker": "base3\\base3.cpp",
+              "ToolTip": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base3\\base3.cpp",
+              "RelativeToolTip": "base3\\base3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T01:03:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "base2.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base2\\base2.cpp",
+              "RelativeDocumentMoniker": "base2\\base2.cpp",
+              "ToolTip": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base2\\base2.cpp",
+              "RelativeToolTip": "base2\\base2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T00:46:17.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "base.cpp",
+              "DocumentMoniker": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base\\base.cpp",
+              "RelativeDocumentMoniker": "base\\base.cpp",
+              "ToolTip": "C:\\SourceBank\\IoT-algorithm-2026\\SCR\\base\\base\\base.cpp",
+              "RelativeToolTip": "base\\base.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T00:28:53.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
